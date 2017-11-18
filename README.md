@@ -8,3 +8,5 @@ Enumerable.Range(1,100)
 </pre>
 
 <i>dá pra melhorar?</i>
+
+<img src="https://github.com/jprando/JFizzBuzz/raw/master/execJFizzBuzz.png">
