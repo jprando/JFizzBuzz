@@ -7,7 +7,7 @@ Enumerable.Range(1,100)
     .ToList().ForEach(Console.WriteLine)
 </pre>
 
-<a href="https://dotnetfiddle.net/IQJ3UZ" title="ver em execução"> Ao Vivo </a>
+<a target="_blank" href="https://dotnetfiddle.net/IQJ3UZ" title="ver em execução"> Ao Vivo </a>
 
 <i>dá pra melhorar?</i>
 
